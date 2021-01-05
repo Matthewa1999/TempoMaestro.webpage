@@ -1,26 +1,13 @@
 # Tempo Maestro
 
+Developed by Matthew Arnold and Seth Holland
+
 <p align = "center">
   <img src="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/MainMenu.png" width="100" height="200" />
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Links
+1. [Privacy Policy](https://docs.google.com/document/d/1pLVJZvQfazcMCzxWOmAQlK_DPHsPbEvAzH2IgrO2_qc/edit?usp=sharing)
+2. [Research Participation Information](https://docs.google.com/document/d/1WOaxTUNst4W-uyDBFxByjKSVoX0owtJlomTzUsOh-XQ/edit?usp=sharing)
 
 ### Jekyll Themes
 
