@@ -1,20 +1,10 @@
 # Tempo Maestro
 
 Developed by Matthew Arnold and Seth Holland
-
-<p style="color:black;" align = "center">
-  
-  <div class="row">
-    <div class="column">
-        <img src="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/MainMenu.png" width="100" height="200">
-    </div>
-    <div class="column">
-        <img src="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/MainMenu.png" width="100" height="200">
-    </div>
-    <div class="column">
-      <img src="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/MainMenu.png" width="100" height="200">
-    </div>
-  </div>
+<p align="center">
+  <kbd>
+    <img src="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/MainMenu.png" width="100" height="200">
+  </kbd>
      
   
 ## Links
