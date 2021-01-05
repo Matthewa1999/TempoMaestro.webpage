@@ -3,9 +3,7 @@
 <i>Developed by Matthew Arnold and Seth Holland</i>
 
 <p align="center">
-  <kbd>
     <img src="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/MainMenu.png" width="100" height="200">
-  </kbd>
      
   
 ## Links
