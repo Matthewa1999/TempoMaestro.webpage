@@ -3,15 +3,11 @@
 Developed by Matthew Arnold and Seth Holland
 
 <p align = "center">
-  <img src="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/MainMenu.png" width="100" height="200" />
+  <img style="border:1px solid black;" src="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/MainMenu.png" width="100" height="200" />
 
 ## Links
 1. [Privacy Policy](https://docs.google.com/document/d/1pLVJZvQfazcMCzxWOmAQlK_DPHsPbEvAzH2IgrO2_qc/edit?usp=sharing)
 2. [Research Participation Information](https://docs.google.com/document/d/1WOaxTUNst4W-uyDBFxByjKSVoX0owtJlomTzUsOh-XQ/edit?usp=sharing)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Matthewa1999/TempoMaestro.webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
