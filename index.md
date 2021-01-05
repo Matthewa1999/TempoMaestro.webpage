@@ -1,7 +1,7 @@
 <i>Developed by Matthew Arnold and Seth Holland </i>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/MainMenu%20with%20phone.png" width="103" height="224">
+    <img src="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/MainMenu%20with%20phone.png" width="356" height="709">
 </p>
   
 ## Links
