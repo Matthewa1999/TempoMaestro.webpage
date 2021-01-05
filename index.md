@@ -1,4 +1,4 @@
-<p align="center"><i>Developed by Matthew Arnold and Seth Holland </i></p>
+<p align="center"><i>Developed by Matthew Arnold and Seth Holland </i></p> //
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/MainMenu%20with%20phone.png" width="356" height="709">
