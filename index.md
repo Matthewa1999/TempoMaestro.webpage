@@ -10,4 +10,4 @@
 
 ## Contact
 
-Reach us with questions, concerns, or feedback at <p style="color:blue">tempomaestroapp@gmail.com</p>
+Reach us with questions, concerns, or feedback at: [tempomaestroapp@gmail.com](tempomaestroapp@gmail.com)
