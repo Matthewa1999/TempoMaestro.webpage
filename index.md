@@ -8,7 +8,7 @@ Tempo Maestro is designed for users to practice and improve their tempo reproduc
   
 ## Links
 
-1. [Apple App Store](https://apps.apple.com/us/app/tempo-maestro/id1540767573)
+1. [Apple App Store - Tempo Maestro](https://apps.apple.com/us/app/tempo-maestro/id1540767573)
 2. [Privacy Policy](https://docs.google.com/document/d/1pLVJZvQfazcMCzxWOmAQlK_DPHsPbEvAzH2IgrO2_qc/edit?usp=sharing)
 3. [Research Participation Information](https://docs.google.com/document/d/1WOaxTUNst4W-uyDBFxByjKSVoX0owtJlomTzUsOh-XQ/edit?usp=sharing)
 
