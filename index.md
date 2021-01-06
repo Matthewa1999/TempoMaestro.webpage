@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/1024.png">
+<link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/Matthewa1999/TempoMaestro.webpage/gh-pages/favicon.ico">
 <p align="center">
 Tempo Maestro is designed for users to practice and improve their tempo reproduction, identification, and stability skills. The app features both training and testing modes for users to learn and challenge themselves. 
 </p>
