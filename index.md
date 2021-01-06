@@ -18,7 +18,7 @@ Tempo Maestro is designed for users to practice and improve their tempo reproduc
 
 ## Research Project
 
-Tempo Maestro was developed by Matthew Arnold and Seth Holland along with advisor Dr. Alexander Lerch. This app serves as a research project with Georgia Tech IRB approval. With user consent we collect unidentifiable training and testing data to track progress and further analyze the results. Our goal is to measure the success of the app as a pedagogical tool and to learn more about the aptitude humans have for these tasks. We would greatly appreciate consistent participation over at least, but not limited to, a months time - as this will provide us with reliable and useful data about the longterm use of the app.
+Tempo Maestro was developed by Matthew Arnold and Seth Holland along with advisor Dr. Alexander Lerch. This app serves as a research project with Georgia Tech IRB approval. With user consent we collect unidentifiable training and testing data to track progress and further analyze the results. Our goal is to measure the success of the app as a pedagogical tool and to learn more about the aptitude humans have for these tasks. We would greatly appreciate consistent participation over at least, but not limited to, a month's time - as this will provide us with reliable and useful data about the longterm use of the app.
 
 ## Support
 
