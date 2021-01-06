@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="1024.png">
 <p align="center">
 Tempo Maestro is designed for users to practice and improve their tempo reproduction, identification, and stability skills. The app features both training and testing modes for users to learn and challenge themselves. 
 </p>
