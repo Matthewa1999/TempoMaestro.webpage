@@ -15,7 +15,8 @@ Tempo Maestro is designed for users to practice and improve their tempo reproduc
 ## Tutorials
 
 Training Exercises:
-1. [Tempo Drift](https://github.com/Matthewa1999/TempoMaestro.webpage/blob/gh-pages/TempoDriftTutorial.mp4?raw=true)
+
+1. [Tempo Drift](https://youtu.be/-IGhqNQaOXE)
 
 ## Research Project
 
