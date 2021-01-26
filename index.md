@@ -28,8 +28,6 @@ Reach us with questions, concerns, or feedback at [tempomaestroapp@gmail.com](ma
 
 Personal Contacts:
 
-[Alexander Lerch](https://www.linkedin.com/in/lerch/)
-
-[Matthew Arnold](https://www.linkedin.com/in/matthewarnold1999/)
-
+[Alexander Lerch](https://www.linkedin.com/in/lerch/)  
+[Matthew Arnold](https://www.linkedin.com/in/matthewarnold1999/)  
 [Seth Holland](https://www.linkedin.com/in/seth-holland-058baa14b/)
