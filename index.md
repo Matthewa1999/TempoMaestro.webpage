@@ -12,11 +12,11 @@ Tempo Maestro is designed for users to practice and improve their tempo reproduc
 2. [Privacy Policy](https://docs.google.com/document/d/1pLVJZvQfazcMCzxWOmAQlK_DPHsPbEvAzH2IgrO2_qc/edit?usp=sharing)
 3. [Research Participation Information](https://docs.google.com/document/d/1WOaxTUNst4W-uyDBFxByjKSVoX0owtJlomTzUsOh-XQ/edit?usp=sharing)
 
-## Tutorials
+## Tutorial Videos
 
 Training Exercises:
 
-1. [Tempo Drift](https://youtu.be/-IGhqNQaOXE)
+1. [Tempo Drift - YouTube](https://youtu.be/-IGhqNQaOXE)
 
 ## Research Project
 
