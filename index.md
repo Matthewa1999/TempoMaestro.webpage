@@ -27,6 +27,9 @@ Tempo Maestro was developed by Matthew Arnold and Seth Holland along with adviso
 Reach us with questions, concerns, or feedback at [tempomaestroapp@gmail.com](mailto:tempomaestroapp@gmail.com)
 
 Personal Contacts:
+
 [Alexander Lerch](https://www.linkedin.com/in/lerch/)
+
 [Matthew Arnold](https://www.linkedin.com/in/matthewarnold1999/)
+
 [Seth Holland](https://www.linkedin.com/in/seth-holland-058baa14b/)
