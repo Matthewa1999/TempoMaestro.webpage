@@ -17,6 +17,7 @@ Tempo Maestro is designed for users to practice and improve their tempo reproduc
 Training Exercises:
 
 1. [Tempo Drift - YouTube](https://youtu.be/-IGhqNQaOXE)
+2. [Target the Tempo - Youtube](https://youtu.be/mbqnXwPg4D4)
 
 ## Research Project
 
